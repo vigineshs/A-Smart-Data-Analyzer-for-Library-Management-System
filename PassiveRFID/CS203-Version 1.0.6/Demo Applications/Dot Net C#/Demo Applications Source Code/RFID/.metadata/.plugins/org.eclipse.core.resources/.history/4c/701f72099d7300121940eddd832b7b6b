@@ -1,0 +1,112 @@
+
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class for Servlet: Update
+ *
+ */
+ public class Update extends javax.servlet.http.HttpServlet implements javax.servlet.Servlet {
+   static final long serialVersionUID = 1L;
+   
+    /* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#HttpServlet()
+	 */
+	public Update() {
+		super();
+	}   	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}  	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		Dbconn dbc = Dbconn.getConnection();
+	  	Connection con=dbc.getDbconnection();
+	  	Statement st;
+	  	String  ttag=request.getParameter("btag");
+	  	String tname=request.getParameter("bname");
+	  	String tyear=request.getParameter("byear");
+	  	String tdept=request.getParameter("bdept");
+	  	String tsection=request.getParameter("bsection");
+	  	String tuid=request.getParameter("buid");
+	  	String troll=request.getParameter("broll");
+	  	
+	  	String mess="";
+	  	String link="";
+	  	try
+		{
+			System.out.println("inside try");
+		    st=con.createStatement();  
+		    
+		    ResultSet rs=st.executeQuery("select * from Student where TID='"+ttag+"' and UID='"+tuid+"'");
+		    if(rs.next())
+		    {
+		    	System.out.println("Username already exists.");
+ 			    mess="Username already exists. Click Ok to Register again with a different username.";
+ 			    link="http://localhost:8090/TGMC/register.jsp";
+ 				  	    }
+		    
+		    
+		    else
+		    {
+		    	ResultSet es=st.executeQuery("select * from Register where emailid='"+emailid+"'");
+		    	if(es.next())
+		    	{
+			    	System.out.println("Hello'" + firstname +"'You've already registered. Try Logging ");
+	 			    mess="Hello" + firstname +"You've already registered. Try Logging ";
+	 			    link="http://localhost:8090/TGMC/login.jsp";
+	 				  	    }
+		    	else
+		    	{
+		    		ResultSet ems=st.executeQuery("select * from Register where empid='"+empid+"'");
+			    	if(ems.next())
+			    	{
+				    	System.out.println("Hello'" + firstname +"'You've already registered. Try Logging ");
+		 			    mess="Hello" + firstname +"You've already registered. Try Logging ";
+		 			    link="http://localhost:8090/TGMC/login.jsp";
+		 				  	    }
+			    	else
+			    	{
+		    System.out.println("INSERT into REGISTER values('"+firstname+"','"+lastname+"','"+age+"','"+gender+"','"+dob+"','"+empid+"','"+emailid+"','"+username+"','"+password+"','"+sq+"','"+sqans+"');");
+		    st.executeUpdate("INSERT into REGISTER values('"+firstname+"','"+lastname+"','"+age+"','"+gender+"','"+dob+"','"+empid+"','"+emailid+"','"+username+"','"+password+"','"+sq+"','"+sqans+"');");
+		    st.executeUpdate("INSERT into DETAILS values('"+firstname+"','"+lastname+"','"+age+"','"+gender+"','"+dob+"','"+empid+"','"+emailid+"','"+username+"','"+password+"',' ',' ',' ',' ',' ',' ','"+sq+"','"+sqans+"',' ',' ',' ');");
+		    System.out.println("Register succes");     
+		    
+		    System.out.println("Gethu");
+			   mess="Registration Successful. Click Ok to Login.";
+			   link="http://localhost:8090/TGMC/login.jsp";
+			    	}
+		    	}
+			}
+		 }
+	  	
+	  	catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		    request.setAttribute("mess", mess);    
+		  	
+		    
+	     request.setAttribute("link", link);     
+	     request.setAttribute("id",username);
+	     
+	     RequestDispatcher rd = this.getServletContext().getRequestDispatcher("/message.jsp");
+		  	rd.forward(request, response);	
+	}   	  	    
+}

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CS203JavaDemoAppSetupXP", "CS203JavaDemoAppSetupXP.vdproj", "{A45D9FCC-2FEC-4C30-81F0-99C531DE2835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45D9FCC-2FEC-4C30-81F0-99C531DE2835}.Debug|Default.ActiveCfg = Debug
+		{A45D9FCC-2FEC-4C30-81F0-99C531DE2835}.Debug|Default.Build.0 = Debug
+		{A45D9FCC-2FEC-4C30-81F0-99C531DE2835}.Release|Default.ActiveCfg = Release
+		{A45D9FCC-2FEC-4C30-81F0-99C531DE2835}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

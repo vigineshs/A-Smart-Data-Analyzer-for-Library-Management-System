@@ -1,0 +1,85 @@
+
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class for Servlet: Attendance
+ *
+ */
+ public class Attendance extends javax.servlet.http.HttpServlet implements javax.servlet.Servlet {
+   static final long serialVersionUID = 1L;
+   
+    /* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#HttpServlet()
+	 */
+	public Attendance() {
+		super();
+	}   	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}  	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		Dbconn dbc = Dbconn.getConnection();
+	  	Connection con=dbc.getDbconnection();
+	  	Statement st;
+	  	String tid=request.getParameter("btag");
+	  	String tuid=request.getParameter("buid");
+	  	
+	  	String mess="";
+	  	String link="";
+	  	try
+		{
+			System.out.println("inside try");
+		    st=con.createStatement();  
+		    SimpleDateFormat sdfDate = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		    Date now = new Date();
+		    String lastdat = sdfDate.format(now);
+		    int month=2;
+		    int month1=Integer.parseInt(lastdat.substring(5,7));
+		    int date=Integer.parseInt(lastdat.substring(8,10));
+		    if(month==month1){
+		    	System.out.println("count="+date);
+		    	st.executeUpdate("UPDATE Student SET [SCount] = '"+date+"' WHERE (([TID] = '"+tid+"') AND ([UID] < Date()-30)")";
+		    }
+		    else
+		    {
+		    	int date1 = date+30;
+		    	System.out.println("count="+date1);
+		    }
+		    System.out.println(month1);
+		    ResultSet rs=st.executeQuery("select * from Student where TID='"+tid+"'and UID='"+tuid+"'");
+		    while(rs.next())
+		    {
+		    	int count=Integer.parseInt(rs.getString("SCount"));
+		    	if(count==0){
+		    		String sweek1=rs.getString("SWeek1");
+		    		String sweek1o=rs.getString("SWeek1o");
+		    		if(sweek1==""){
+		    			
+		    		}
+		    	}
+		    }
+	}   
+	  	catch(Exception e){
+	  		e.printStackTrace();
+	  		}
+	  	}
+}

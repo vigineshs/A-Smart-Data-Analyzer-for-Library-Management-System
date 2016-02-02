@@ -1,0 +1,95 @@
+
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class for Servlet: Tagg
+ *
+ */
+ public class Tagg extends javax.servlet.http.HttpServlet implements javax.servlet.Servlet {
+   static final long serialVersionUID = 1L;
+   
+    /* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#HttpServlet()
+	 */
+	public Tagg() {
+		super();
+	}   	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		Dbconn dbc = Dbconn.getConnection();
+	  	Connection con=dbc.getDbconnection();
+	  	Statement st;
+	  	String tid=request.getParameter("tag");
+	  	String tname=request.getParameter("bname");
+	  	String tauthor=request.getParameter("bauthor");
+	  	String tedition=request.getParameter("bedition");
+	  	String tisbn=request.getParameter("bisbn");
+	  	String track=request.getParameter("brack");
+	  	String trow=request.getParameter("brow");
+
+	  	String mess="";
+	  	String link="";
+	  	try
+		{
+			System.out.println("inside try");
+		    st=con.createStatement();  
+		    
+		    ResultSet rs=st.executeQuery("select * from Tagging where ISBN='"+tisbn+"'");
+		    if(rs.next())
+		    {
+		    	System.out.println("Book Already Tagged");
+ 			    mess="Book already Tagged";
+ 			    link="http://localhost:8080/library/message.jsp";
+ 				  	    }
+		    
+		    
+		    else
+		    {
+		    	
+		    System.out.println("INSERT into REGISTER values('"+tid+"','"+tname+"','"+tauthor+"','"+tedition+"','"+tisbn+"','"+track+"','"+trow+"');");
+		    st.executeUpdate("INSERT into TAGGING values('"+tid+"','"+tname+"','"+tauthor+"','"+tedition+"','"+tisbn+"','"+track+"','"+trow+"');");
+		
+		    System.out.println("Register succes");     
+		    
+		    System.out.println("Gethu");
+			   mess="Tag Successful. Click Ok to Tag another.";
+			   link="http://localhost:8080/RFID_LMS/tag.jsp";
+			    	}
+		    	}
+			
+		 
+	  	
+	  	catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		    request.setAttribute("mess", mess);    
+		  	
+		    
+	     request.setAttribute("link", link);     
+	     request.setAttribute("id",tisbn);
+	     
+	     RequestDispatcher rd = this.getServletContext().getRequestDispatcher("/message.jsp");
+		  	rd.forward(request, response);	
+	}  	
+	
+	/* (non-Java-doc)
+	 * @see javax.servlet.http.HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}   	  	    
+}

@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7337347A-11B3-45F5-B63B-2372B97707B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS203_CALLBACK_API_DEMO</RootNamespace>
+    <AssemblyName>CS203 CALLBACK API DEMO</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>CSL Logo2.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>http://localhost/CS203 CALLBACK API DEMO/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'CS203 Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\CS203 Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;WIN32</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'CS203 Release|AnyCPU' ">
+    <OutputPath>bin\CS203 Release\</OutputPath>
+    <DefineConstants>TRACE;WIN32</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="AntennaPortCfgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntennaPortCfgForm.Designer.cs">
+      <DependentUpon>AntennaPortCfgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="appConfig.cs" />
+    <Compile Include="AssignForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignForm.Designer.cs">
+      <DependentUpon>AssignForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlPanel.Designer.cs">
+      <DependentUpon>ControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\ConfigOffset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustControl\ConfigOffset.designer.cs">
+      <DependentUpon>ConfigOffset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\MenuBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustControl\MenuBar.Designer.cs">
+      <DependentUpon>MenuBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\ReadAllBank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustControl\ReadAllBank.Designer.cs">
+      <DependentUpon>ReadAllBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\Singulation_DynamicQ.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustControl\Singulation_DynamicQ.designer.cs">
+      <DependentUpon>Singulation_DynamicQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\Singulation_FixedQ.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustControl\Singulation_FixedQ.designer.cs">
+      <DependentUpon>Singulation_FixedQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\StartMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustControl\StartMenu.Designer.cs">
+      <DependentUpon>StartMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustControl\WriteAllBank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustControl\WriteAllBank.designer.cs">
+      <DependentUpon>WriteAllBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustListView\SortColumnHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustListView\SortComparer.cs" />
+    <Compile Include="CustListView\SortListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustProgressBar\ProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustTextBox\HexOnlyTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryForm.designer.cs">
+      <DependentUpon>InventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IPTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IPTextBox.Designer.cs">
+      <DependentUpon>IPTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinkProfileInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LinkProfileInformation.Designer.cs">
+      <DependentUpon>LinkProfileInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListBoxEx\ListBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LocalSettings.cs" />
+    <Compile Include="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuForm.designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageForm.Designer.cs">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetFinderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NetFinderForm.Designer.cs">
+      <DependentUpon>NetFinderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustTextBox\NumBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PowerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PowerForm.designer.cs">
+      <DependentUpon>PowerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileForm.designer.cs">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SQLMethod.cs" />
+    <Compile Include="TagBlockPermaLockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagBlockPermaLockForm.Designer.cs">
+      <DependentUpon>TagBlockPermaLockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagDataModel.cs" />
+    <Compile Include="TagGeigerSearchFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagGeigerSearchFrom.designer.cs">
+      <DependentUpon>TagGeigerSearchFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagKillForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagKillForm.designer.cs">
+      <DependentUpon>TagKillForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagRangingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagRangingForm.designer.cs">
+      <DependentUpon>TagRangingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagReadWriteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagReadWriteForm.designer.cs">
+      <DependentUpon>TagReadWriteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagSearchForm.designer.cs">
+      <DependentUpon>TagSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagSecurityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagSecurityForm.designer.cs">
+      <DependentUpon>TagSecurityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagSecurityResultForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TagSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagSettingForm.designer.cs">
+      <DependentUpon>TagSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagWriteAnyEPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagWriteAnyEPC.designer.cs">
+      <DependentUpon>TagWriteAnyEPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThreadSafeList.cs" />
+    <Compile Include="UpdateProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProgressForm.Designer.cs">
+      <DependentUpon>UpdateProgressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitingForm.Designer.cs">
+      <DependentUpon>WaitingForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AntennaPortCfgForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AntennaPortCfgForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AssignForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlPanel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\ConfigOffset.resx">
+      <DependentUpon>ConfigOffset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\MenuBar.resx">
+      <DependentUpon>MenuBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\ReadAllBank.resx">
+      <DependentUpon>ReadAllBank.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\Singulation_DynamicQ.resx">
+      <DependentUpon>Singulation_DynamicQ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\Singulation_FixedQ.resx">
+      <DependentUpon>Singulation_FixedQ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\StartMenu.resx">
+      <DependentUpon>StartMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustControl\WriteAllBank.resx">
+      <DependentUpon>WriteAllBank.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustListView\SortListView.resx">
+      <DependentUpon>SortListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustProgressBar\ProgressBar.resx">
+      <DependentUpon>ProgressBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryForm.resx">
+      <DependentUpon>InventoryForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IPTextBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IPTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LinkProfileInformation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LinkProfileInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NetFinderForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NetFinderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PowerForm.resx">
+      <DependentUpon>PowerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileForm.resx">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagBlockPermaLockForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TagBlockPermaLockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagGeigerSearchFrom.resx">
+      <DependentUpon>TagGeigerSearchFrom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagKillForm.resx">
+      <DependentUpon>TagKillForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagRangingForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TagRangingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagReadWriteForm.resx">
+      <DependentUpon>TagReadWriteForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagSearchForm.resx">
+      <DependentUpon>TagSearchForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagSecurityForm.resx">
+      <DependentUpon>TagSecurityForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagSecurityResultForm.resx">
+      <DependentUpon>TagSecurityResultForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagSettingForm.resx">
+      <DependentUpon>TagSettingForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProgressForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UpdateProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitingForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>WaitingForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CSLibrary, Version=2.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\CS203 Release Library\WindowsXP\NET3.5\CSLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="CSLibrary.Windows, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\CS203 Release Library\WindowsXP\NET3.5\CSLibrary.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\CS203 Release Library\WindowsXP\cpl.dll">
+      <Link>cpl.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\CS203 Release Library\WindowsXP\rfid.dll">
+      <Link>rfid.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSL Logo2.ico" />
+    <EmbeddedResource Include="Resources\accept.png" />
+    <EmbeddedResource Include="Resources\cancel.png" />
+    <EmbeddedResource Include="Resources\refresh.png" />
+    <EmbeddedResource Include="TagWriteAnyEPC.resx">
+      <DependentUpon>TagWriteAnyEPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Run.png" />
+    <None Include="Resources\Clear.png" />
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+</Project>

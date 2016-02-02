@@ -1,0 +1,36 @@
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Release\cpl.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Release\rfid.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Release\CS203 Example Code.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Release\CS203 Example Code.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Release\CSLibrary.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Release\CSLibrary.Windows.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Release\ResolveAssemblyReference.cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Release\CS203_Example_Code.Properties.Resources.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Release\CS203_Example_Code.SelfTestForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Release\CS203 Example Code VS2005.csproj.GenerateResource.Cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Release\CS203 Example Code.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Release\CS203 Example Code.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\cpl.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\rfid.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CS203 Example Code.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CS203 Example Code.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CSLibrary.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CSLibrary.Windows.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\ResolveAssemblyReference.cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203_Example_Code.Properties.Resources.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203_Example_Code.SelfTestForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203 Example Code VS2005.csproj.GenerateResource.Cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203 Example Code.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203 Example Code.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\cpl.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\rfid.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CS203 Example Code.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CS203 Example Code.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CSLibrary.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\bin\CS203 Debug\CSLibrary.Windows.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\ResolveAssemblyReference.cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203_Example_Code.Properties.Resources.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203_Example_Code.SelfTestForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203 Example Code VS2005.csproj.GenerateResource.Cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203 Example Code.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Example Code\obj\CS203 Debug\CS203 Example Code.pdb

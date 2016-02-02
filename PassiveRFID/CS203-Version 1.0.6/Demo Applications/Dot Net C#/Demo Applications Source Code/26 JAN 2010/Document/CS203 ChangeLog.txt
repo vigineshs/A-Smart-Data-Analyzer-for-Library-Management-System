@@ -1,0 +1,218 @@
+====================================================================================
+====Demo App Version           : 2.0.0
+====RFID MAC Framware          : 1.3.51 or above
+====Intel RFID Library         : 2.0.5
+====CSLibrary                  : 2.0.3678
+====Release Date               : 26-Jan-2010
+====================================================================================
+
+=====================================ChangeLog======================================
+===================================<26-Jan-2010>====================================
+CSLibrary:
+1. GC.KeepAlive added to callback
+2. DateTime added in Log
+3. WriteAnyEpc supported. Please refer to CS101 Demo Application.
+
+CS101 Demo App:
+1. WriteAnyEpc supported.
+===================================<11-Jan-2010>====================================
+CSLibrary:
+1. CWON Data Mode bug fixed.
+===================================<16-Dec-2009>====================================
+CSLibrary
+1. Reconnect bug fixed
+===================================<12-Dec-2009>====================================
+CSLibrary
+1. TagWrite bug fixed
+===================================<11-Dec-2009>====================================
+CSLibrary
+1. Start and Stop Operation performance enhancement
+2. Connect and Disconnect bug fixed
+CS203 DEMO APP
+1. Bug Fixed
+===================================<10-Dec-2009>====================================
+CSLibrary
+1. Sync Event Call
+2. Some bugs fixed, for more detailed for refer to CSL_BUG_REPORT.xls
+===================================<04-Dec-2009>====================================
+CSLibrary
+1. Barcode can't stop bug fixed
+2. Barcode callback Event Support both Delegate or non-Delegate call
+Function renamed:
+3. AvailableMaxPower to GetAvailableMaxPower(RegionCode region) or GetAvailableMaxPower()
+4. AvailableLinkProfile to GetAvailableLinkProfile(RegionCode region) or GetAvailableLinkProfile()
+5. AvailableRegionCode to GetAvailableRegionCode()
+6. Permalock command added
+
+CS101 DEMO APP:
+1. ReadWriteForm.cs modified
+2. ReadAllbank.cs modified
+3. WriteAllback.cs modified
+4. Permalock added to TagSecurityForms.cs
+5. MenuForm.cs Modified
+
+===================================<23-Nov-2009>====================================
+CSLibrary
+Function Rename:
+1. CSLibrary.Barcode.Barcode.StateChanged to CSLibrary.Barcode.Barcode.OnStateChanged
+2. CSLibrary.Barcode.Barcode.CapturedEvent to CSLibrary.Barcode.Barcode.OnCapturedNotify
+3. Threading.IsAlive check bug fixed
+4. TurnCarrierWaveOff Bug fixed
+
+CS203 DEMO APP :
+1. TagRanging add refresh after click stop button
+2. Bug fixed on Inventory tag count
+CS501 DEMO APP :
+1. Bug fixed on Setting Page
+
+===================================<18-Nov-2009>====================================
+CS203 DEMO APP :
+1. Detail Information added. Note : Press "F1" key on MenuForm
+2. Remove all Delegate
+
+CSLibrary
+Function Added:
+1. Callback Event Support both Delegate or non-Delegate call
+   Note : you can now put all UI update in callback event,
+	  no need delegate anymore.
+
+2. HighLevelInterface.GetCSLibraryVersion()
+3. HighLevelInterface.GetRfidLibraryVersion()
+4. HighLevelInterface.GetHardwareVersion()
+5. HighLevelInterface.GetManufactureDate()
+6. HighLevelInterface.GetPCBAssemblyCode()
+7. HighLevelInterface.GetCurrentActiveLinkProfileInfo()
+
+Function Modified:
+7. Synchronized all class name and variables
+8. HighLevelInterface.TurnCarrierWaveOn(bool isDataMode) // Start both data mode and carrier only
+
+Document Updated:
+CSlibrary.chm
+
+===================================<09-Nov-2009>====================================
+
+CS203 DEMO APP :
+1.Enable all symbologies in application startup.
+2.TimeSync added to Setup
+
+CSLibrary
+1. Namespace CSLibrary.TimeSync added
+
+===================================<30-Oct-2009>====================================
+CSLibrary:
+Function Removed : 
+	1. CSLibrary.HighLevelInterface.TagInventoryEvent 
+	2. CSLibrary.HighLevelInterface.TagRangingEvent 
+	3. CSLibrary.HighLevelInterface.TagSearchAnyEvent 
+	4. CSLibrary.HighLevelInterface.TagSearchOneEvent 
+	5. CSLibrary.HighLevelInterface.TagAccessEvent 
+	6. public Result RadioCloseAndReopen()
+	7. public Result MacBypassReadRegister(ushort address, ref ushort value)
+	8. public Result MacBypassWriteRegister(ushort address, ref ushort value)
+	9. public Result MacGetRegion(ref MacRegion region)
+	10. public Result MacSetRegion(ref MacRegion region)
+	11. public Result MacReadOemData(uint address, uint count, ref uint[] pData)
+	12. public Result MacUpdateFirmware(uint length, NonVolatileMemoryBlock[] pImage)
+	13. CSLibrary.Structures.TAG_ACCESS_RECORD
+	14. CSLibrary.Structures.CSLibraryOperationParms.TagRead/TagWrite/TagBlockWrite/TagSearchAny
+	15. CSLibrary.Constants.Operation.TAG_READ/TAG_WRITE/TAG_BLOCK_WRITE/TAG_SEARCH_ANY
+	16. CSLibrary.Constants.Operation.TAG_LOCK_ACC_PWD/TAG_LOCK_KILL_PWD/TAG_LOCK_EPC/TAG_LOCK_TID
+	    /TAG_LOCK_USER
+
+Function Renamed :
+	1. CSLibrary.HighLevelInterface.StateChangedEvent -> CSLibrary.HighLevelInterface.OnStateChanged
+	2. CSLibrary.HighLevelInterface.TagAccessCompletedEvent -> CSLibrary.HighLevelInterface.OnAccessCompleted
+	3. CSLibrary.HighLevelInterface.TagInventoryEvent/TagRangingEvent/TagSearchOneEvent ->
+	   CSLibrary.HighLevelInterface.OnAsyncCallback
+	4. CSLibrary.Structures.TAG_INVENTORY_RECORD/TAG_RANGING_RECORD/TAG_SEARCH_ANY_RECORD/TAG_SEARCH_ONE_RECORD
+	   Combine to CSLibrary.Structures.TAG_CALBACK_INFO
+	5. CSLibrary.GPRS.Band.GMS_850MHz_DCS_1800MHz -> CSLibrary.GPRS.Band.GSM_850MHz_DCS_1800MHz
+	6. CSLibrary.GPRS.Band.GMS_850MHz_PCS_1900MHz -> CSLibrary.GPRS.Band.GSM_850MHz_PCS_1900MHz
+	7. public static bool SelectBand(Band band) -> public static bool SetCurrentBand(Band band)
+
+Function Added : 
+	1. public Result GetSelectCriteria(ref SelectCriteria pCrit)
+	2. public Result TurnCarrierWaveOff()
+	3. public Result TurnCarrierWaveOn()
+	4. CSLibrary.Constants.TAG_CALLBACK_TYPE
+	5. CSLibrary.Windows.UI.Controls (Added for Inventory use)
+
+Function Changed :
+	1. CSLibrary.Structures.CUST_RANGING_PARMS
+	2. CSLibrary.Structures.TAG_SEARCH_ONE_PARMS
+	3. CSLibrary.Structures.TAG_INVENTORY_PARMS
+
+Bug Fixed : 
+	1. Tag Read EPC and User Memory length larger than 8 words
+	2. Tag Write EPC and User Memory length larger than 8 words
+	3. Tag Lock and Tag Kill report a wrong result
+
+Demo App:
+	1. Inventory/Ranging/Read Write/Setting UI changed
+	2. Read Yield == Inventory
+	3. TagRanging duplicate tag occur when read many tags
+Document:
+1. chm Library updated.
+
+
+===================================<9-Oct-2009>====================================
+CSLibrary:
+CSLibrary.GPRS class modified
+
+Demo App:
+CS501 Demo App: Get and Set GSM Band added...
+
+===================================<8-Oct-2009>===================================
+CSLibrary:
+1. GPRS updated
+2. function removed: RFID_TurnOn and RFID_TurnOff
+3. Comments added
+Demo App:
+1. CS501 Demo app modified
+2. WriteAll show error message
+3. CustWrite show warning if user write PC-EPC bank with offset equal to 0
+4. CustRead and CustWrite Memory bank rename from "EPC" t0 "PC-EPC"
+Document:
+1. chm Library updated.
+2. pdf Library updated.
+
+
+===================================<7-Oct-2009>===================================
+CSLibaray:
+WriteEPC bug Fixed
+
+===================================<6-Oct-2009>===================================
+CSLibrary:
+1. ReadYield improved
+2. parameters modified : 
+	Program.ReaderCE.Options.TagSelected
+3. functions added :
+	CSLibrary.Text.Hex.GetBitLength(string)
+	CSLibrary.Text.Hex.GetBitLength(byte[])
+Demo Application
+<TagGeigerSearchForm.cs, TagInventoryForm.cs, TagKillForm.cs, TagRangingForm.cs, TagReadWriteForm.cs,
+TagReadYieldForm.cs, TagSecurityForm.cs>
+1. operation stop checking during form closing
+
+<TagGeigerSearchForm.cs>
+2. Tag Geiger Search supported partial epc. e.g. epc can be 0x3000xxxxxxxxxx
+
+<BarcodeForm.cs>
+3. HotKey bug fixed
+
+<TagReadWriteForm.cs>
+4. HotKey bug fixed
+5. Auto-Clear List when restart operation
+6. Tag name changed:
+	"2.Read Tag" to "2.Read All",
+	"3.Write Tag" to "3.Write All"
+
+<HexOnlyTextBox.cs>
+7. Variable added : PaddingZero 
+
+Intel Library:
+1. bug fixed on TagSearch
+
+
+

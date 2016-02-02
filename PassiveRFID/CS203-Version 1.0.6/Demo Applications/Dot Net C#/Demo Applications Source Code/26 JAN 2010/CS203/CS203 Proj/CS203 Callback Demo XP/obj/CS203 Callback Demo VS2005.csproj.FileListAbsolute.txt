@@ -1,0 +1,150 @@
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\cpl.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\rfid.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\CS203 CALLBACK API DEMO.exe.manifest
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\CS203 CALLBACK API DEMO.application
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\CS203 CALLBACK API DEMO.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\CS203 CALLBACK API DEMO.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\CSLibrary.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Release\CSLibrary.Windows.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\ResolveAssemblyReference.cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.Resources.accept.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.Resources.cancel.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.Resources.refresh.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.AntennaPortCfgForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.AssignForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.ControlPanelForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.ConfigOffset.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.MenuBar.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.ReadAllBank.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.Singulation_DynamicQ.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.Singulation_FixedQ.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.StartMenu.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.WriteAllBank.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\Custom.Control.SortListView.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\Custom.Control.ProgressBar.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.InventoryForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.IPTextBox.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.LinkProfileInformation.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.MenuForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.MessageForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.NetFinderForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.PowerForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.ProfileForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.Properties.Resources.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagBlockPermaLockForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.GeigerSearchForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagKillForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagRangingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagReadWriteForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagSearchForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagSecurityForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.ResultForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.TagSettingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.UpdateProgressForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203_CALLBACK_API_DEMO.WaitingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203 Callback Demo VS2005.csproj.GenerateResource.Cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203 CALLBACK API DEMO.TrustInfo.xml
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203 CALLBACK API DEMO.exe.manifest
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203 CALLBACK API DEMO.application
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203 CALLBACK API DEMO.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Release\CS203 CALLBACK API DEMO.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\cpl.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\rfid.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.exe.manifest
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.application
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CSLibrary.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CSLibrary.Windows.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\ResolveAssemblyReference.cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Resources.accept.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Resources.cancel.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Resources.refresh.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.AntennaPortCfgForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.AssignForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ControlPanelForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ConfigOffset.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.MenuBar.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ReadAllBank.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Singulation_DynamicQ.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Singulation_FixedQ.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.StartMenu.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.WriteAllBank.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\Custom.Control.SortListView.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\Custom.Control.ProgressBar.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.InventoryForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.IPTextBox.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.LinkProfileInformation.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.MenuForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.MessageForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.NetFinderForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.PowerForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ProfileForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Properties.Resources.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagBlockPermaLockForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.GeigerSearchForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagKillForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagRangingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagReadWriteForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagSearchForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagSecurityForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ResultForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagSettingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.UpdateProgressForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.WaitingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 Callback Demo VS2005.csproj.GenerateResource.Cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.TrustInfo.xml
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.exe.manifest
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.application
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\cpl.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\rfid.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.exe.manifest
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.application
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.exe
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CS203 CALLBACK API DEMO.pdb
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CSLibrary.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\bin\CS203 Debug\CSLibrary.Windows.dll
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\ResolveAssemblyReference.cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Resources.accept.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Resources.cancel.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Resources.refresh.png
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.AntennaPortCfgForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.AssignForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ControlPanelForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ConfigOffset.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.MenuBar.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ReadAllBank.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Singulation_DynamicQ.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Singulation_FixedQ.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.StartMenu.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.WriteAllBank.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\Custom.Control.SortListView.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\Custom.Control.ProgressBar.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.InventoryForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.IPTextBox.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.LinkProfileInformation.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.MenuForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.MessageForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.NetFinderForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.PowerForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ProfileForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.Properties.Resources.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagBlockPermaLockForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.GeigerSearchForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagKillForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagRangingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagReadWriteForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagSearchForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagSecurityForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.ResultForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.TagSettingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.UpdateProgressForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203_CALLBACK_API_DEMO.WaitingForm.resources
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 Callback Demo VS2005.csproj.GenerateResource.Cache
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.TrustInfo.xml
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.exe.manifest
+D:\PassiveRFID\CS203-Version 1.0.6\Demo Applications\Dot Net C#\Demo Applications Source Code\26 JAN 2010\CS203\CS203 Proj\CS203 Callback Demo XP\obj\CS203 Debug\CS203 CALLBACK API DEMO.application

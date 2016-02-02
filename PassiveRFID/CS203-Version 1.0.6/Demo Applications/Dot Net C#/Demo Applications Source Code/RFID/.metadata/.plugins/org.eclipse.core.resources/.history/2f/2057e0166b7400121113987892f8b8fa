@@ -1,0 +1,101 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<%@ page import="java.sql.*"%>
+<%@ page language="java"%>
+<%@ page import="java.sql.Connection"%>
+<%@ page import="java.sql.ResultSet"%>
+<%@ page import="java.sql.Statement"%>
+<%@ page import="javax.servlet.RequestDispatcher"%>
+
+<%
+
+
+try{
+	Connection dbconnection = null;
+		Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+    dbconnection=DriverManager.getConnection("jdbc:odbc:rfiddb","admin","");
+    String mess="";
+  	String link="";
+  	int flag=0;
+  	Statement st; 
+st= dbconnection.createStatement();
+String tid=request.getParameter("btag");
+ResultSet rs=st.executeQuery("select * from Tagging where TagID='"+ tid +"'");
+//ResultSet rs=st.executeQuery("SELECT * FROM Tagging");
+System.out.println("select * from Tagging where TagID='"+ tid +"'");
+
+
+%>
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>RFID | Library Management System</title>
+<link rel="stylesheet" type="text/css" href="page.css ">
+
+</head>
+<body>
+<div class="center">
+<div id="container">
+<div id="header"><br/>
+RFID Library Management System
+</div>
+<div id="content" style="height:100%; overflow:scroll;" ><center>
+<ul>
+<li><a href="index.jsp">Home</a></li>
+<li><a href="tag.jsp">Tagging</a></li>
+<li><a href="attend.jsp">Attendance</a></li>
+<li><a href="locate.jsp">Trace Location</a></li>
+<li><a href="#">Anti-Theft</a></li>
+</ul>
+<br/>
+
+	
+<% while(rs.next())
+{	flag=1;
+System.out.println("select * from Tagging where TagID='"+ tid +"'"); %>
+<br/><pre>Tag ID:   <%= rs.getString("TagID") %> </pre>
+<pre>Book Name:   <%= rs.getString("BookName") %> </pre>
+<pre>Author:   <%= rs.getString("Author") %> </pre>
+Current Location<br/>
+<table border=1 cellpadding=5>
+<tr ><td>Rack:&nbsp;</td><td><%= rs.getString("Rack") %></td></tr>
+<tr><td>Row:&nbsp;</td><td><%= rs.getString("Row") %></td></tr>
+</table>
+	if(<%= rs.getString("Row") %> == "1ST")
+	{
+	<img src="images/row1.jpg" />}
+	else if(<%= rs.getString("Row") %> == "2ND")
+	{
+	<img src="images/row2.jpg" />}
+	else if(<%= rs.getString("Row") %> == "3RD")
+	{
+	<img src="images/row3.jpg" />}
+	else if(<%= rs.getString("Row") %> == "4TH")
+	{
+	<img src="images/row4.jpg" />}
+	else if(<%= rs.getString("Row") %> == "5TH")
+	{
+	<img src="images/row5.jpg" />}
+	<%}
+if(flag==0){	
+	mess="Invalid Tag";
+	    link="http://localhost:8080/librarymgmt/locate.jsp";
+	    request.setAttribute("mess", mess);    
+	    request.setAttribute("link", link);    
+	    RequestDispatcher rd = this.getServletContext().getRequestDispatcher("/message.jsp");
+	     	rd.forward(request, response);
+	%>
+	
+	<%}
+
+ 	}
+
+	catch(Exception e){out.print(e);}
+		%>
+</center>		
+</div>
+</div>
+</div>
+</body>
+</html>

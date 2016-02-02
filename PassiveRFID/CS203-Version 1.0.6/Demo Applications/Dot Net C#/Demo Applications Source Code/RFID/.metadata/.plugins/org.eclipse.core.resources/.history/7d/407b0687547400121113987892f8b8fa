@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+
+
+<title>RFID | Message</title>
+<link rel="stylesheet" type="text/css" href="css/page.css ">
+
+</head>
+<body>
+<div class="center">
+<div id="container">
+<div id="header"><br/>
+RFID Library Management System
+</div>
+<div id="content">
+<br/><br/>
+	<br/>
+<form name="message" method="post"
+	action="<%= request.getAttribute("link") %>"><input
+	type="hidden" name="id" value="<%= request.getAttribute("id") %>"></input>
+
+<br>
+<br>
+<br>
+<br>
+<div align="center"><%= request.getAttribute("mess") %> <br>
+<br>
+<input type="submit" name="submit"
+	value="&nbsp;&nbsp;&nbsp;&nbsp;OK&nbsp;&nbsp;&nbsp;" style="background-color: #5C92E9; color: #fff;"></input></div>
+</form>
+</div>
+</div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,1179 @@
+YYYY1116-115107
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-115331
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-115331
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-115331
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-115734
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-115734
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-115734
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-120024
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-120024
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-120024
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-120027
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122042
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122042
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122106
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122108
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122113
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122113
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122113
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122117
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122119
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122120
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122214
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122214
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122214
+Object reference not set to an instance of an object.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122628
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122628
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122659
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122659
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122659
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122849
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122852
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122852
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122852
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122857
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122857
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-122913
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021641
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021641
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021641
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021641
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021641
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021641
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021810
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021810
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021811
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021811
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021811
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-021811
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022000
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022000
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022000
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022000
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022000
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022006
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022006
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022618
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022618
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022618
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-022618
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023248
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023248
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023248
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023248
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023416
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023416
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023416
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023416
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-023416
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024332
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024332
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024332
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024332
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024531
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024531
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024531
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-024531
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-025551
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-025551
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-025551
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-025551
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030430
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030430
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030430
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030430
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030434
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030435
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030435
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030435
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030435
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030436
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030550
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030550
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030550
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030550
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030556
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030557
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030557
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030557
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030557
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-030558
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043242
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+
+YYYY1116-043243
+The process cannot access the file 'C:\Documents and Settings\Administrator\Desktop\sample.csv' because it is being used by another process.
+Thread Name: RangingAllThreadProc
+Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at CSLibrary.HighLevelInterface.FireCallbackEvent(OnAsyncCallbackEventArgs args)
+   at CSLibrary.HighLevelInterface.TagRangingCallback(Single rssi, UInt16 pc, UInt32 epcLength, IntPtr epc)
+InnerException: 
+

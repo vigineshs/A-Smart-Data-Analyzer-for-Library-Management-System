@@ -1,0 +1,78 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<%@ page import="java.sql.*"%>
+<%@ page language="java"%>
+<%@ page import="java.sql.Connection"%>
+<%@ page import="java.sql.ResultSet"%>
+<%@ page import="java.sql.Statement"%>
+<%@ page import="javax.servlet.RequestDispatcher"%>
+
+<%
+
+
+try{
+	Connection dbconnection = null;
+		Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+    dbconnection=DriverManager.getConnection("jdbc:odbc:rfiddb","admin","");
+    String mess="";
+  	String link="";
+  	int flag=0;
+  	Statement st; 
+st= dbconnection.createStatement();
+String tid=request.getParameter("btag");
+ResultSet rs=st.executeQuery("select * from Tagging where Author='"+ tid +"'");
+//ResultSet rs=st.executeQuery("SELECT * FROM Tagging");
+System.out.println("select * from Tagging where TagID='"+ tid +"'");
+
+
+%>
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>RFID | Library Management System</title>
+<link rel="stylesheet" type="text/css" href="css/page.css ">
+
+</head>
+<body>
+<div class="center">
+<div id="container">
+<div id="header"><br/>
+RFID Library Management System
+</div>
+<div id="content" style="height:100%" >
+<br/><br/>
+
+	
+<% while(rs.next())
+{	flag=1;
+System.out.println("select * from Tagging where TagID='"+ tid +"'"); %>
+<pre>Tag ID:   <%= rs.getString("TagID") %> </pre>
+<br/><br/>Current Location<br/><br/><br/>
+<table border=1 cellpadding=5>
+<tr ><td>Rack:&nbsp;</td><td><%= rs.getString("Rack") %></td></tr>
+<tr><td>Row:&nbsp;</td><td><%= rs.getString("Row") %></td></tr>
+</table>
+	
+	<%}
+if(flag==0){	
+	mess="Invalid Tag";
+	    link="http://localhost:8080/librarymgmt/locate.jsp";
+	    request.setAttribute("mess", mess);    
+	    request.setAttribute("link", link);    
+	    RequestDispatcher rd = this.getServletContext().getRequestDispatcher("/message.jsp");
+	     	rd.forward(request, response);
+	%>
+	
+	<%}
+
+ 	}
+
+	catch(Exception e){out.print(e);}
+		%>
+		
+</div>
+</div>
+</div>
+</body>
+</html>

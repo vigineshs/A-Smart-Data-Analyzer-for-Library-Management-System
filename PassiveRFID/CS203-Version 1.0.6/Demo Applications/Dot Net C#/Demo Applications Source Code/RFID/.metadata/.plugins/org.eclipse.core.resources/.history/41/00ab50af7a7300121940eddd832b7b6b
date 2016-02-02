@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<title>RFID | Library Management System</title>
+<link rel="stylesheet" type="text/css" href="css/page.css ">
+
+</head>
+<body>
+<div class="center">
+<div id="container">
+<div id="header"><br/>
+RFID Library Management System
+</div>
+<div id="content">
+<br/><br/><br/><br/>
+	<div id="lcon">
+
+	</div>
+	<div id="rcon">
+<img src="images/tagg.png" style="height:100px;width:100px" /><a href="tag.jsp" style="font-size:32px;" >Tagging</a><br/>
+<a href="attend.jsp">Attendance</a><br/>
+<a href="locate.jsp">Locate Book</a>
+
+	</div>
+</div>
+</div>
+</div>
+</body>
+</html>

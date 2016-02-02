@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v6.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="10_2_13_9_28_AM3" name="Tomcat v6.0 Server at localhost" runtime-id="Apache Tomcat v6.0" server-type="org.eclipse.jst.server.tomcat.60" server-type-id="org.eclipse.jst.server.tomcat.60" testEnvironment="true" timestamp="30">
+  <list key="modules" value0="LMS::org.eclipse.jst.j2ee.server:LMS::jst.web::2.4" value1="librarymgmt::org.eclipse.jst.jee.server:librarymgmt::jst.web::2.5"/>
+</server>
